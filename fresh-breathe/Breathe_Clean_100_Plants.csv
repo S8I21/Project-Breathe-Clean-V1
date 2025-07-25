@@ -1,0 +1,101 @@
+BotanicalName,CommonName,SuggestedHindiNickname,AirPurifying,Light,Water,Indoors_Outdoors,ToxinsRemoved,Maintenance,SpaceRequired,AQIImprovement,OriginCountry
+Zamioculcas zamiifolia,ZZ Plant,Jadui Patta,Yes,Low to Medium,Moderate,Indoors,"Formaldehyde, Benzene",Low,Balcony Corner,AQI +6,Australia
+Maranta leuconeura,Prayer Plant,Prarthana Paudha,Yes,Bright,Mist Weekly,Outdoors,"Toluene, Formaldehyde, Carbon Monoxide",Medium,Balcony Corner,AQI +7,USA
+Calathea orbifolia,Calathea,Chamak Patta,Yes,Medium,High,Indoors,"N/A, Benzene, Carbon Monoxide",High,Small Pot (6-8 inches),AQI +26,India
+Asplenium nidus,Bird's Nest Fern,Ghosla Fern,Yes,Bright Indirect,Moderate,Outdoors,"Xylene, Benzene",Very Low,Tabletop,AQI +10,Australia
+Peperomia obtusifolia,Baby Rubber Plant,Chhoti Rubber,Yes,Low,High Humidity,Outdoors,Formaldehyde,Low,Hanging Pot,AQI +14,Australia
+Fittonia albivenis,Nerve Plant,Naadi Paudha,Yes,Medium,High Humidity,Indoors,Toluene,Medium,Tabletop,AQI +22,Brazil
+Stromanthe Triostar,Triostar,Rangin Patta,Yes,Bright Indirect,High Humidity,Indoors,"Carbon Monoxide, Formaldehyde, Toluene",High,Small Pot (6-8 inches),AQI +24,USA
+Dracaena marginata,Dragon Tree,Naag Paudha,Yes,Low,Moderate,Both,N/A,Low,Balcony Corner,AQI +13,Australia
+Pilea peperomioides,Chinese Money Plant,Gol Patta,Yes,Bright,Low,Both,"N/A, Ammonia",Medium,Balcony Corner,AQI +9,Peru
+Tillandsia spp.,Air Plant,Hawa Paudha,Yes,Bright,High,Both,"Formaldehyde, N/A, Toluene",Low,Balcony Corner,AQI +7,Mexico
+Dypsis lutescens,Areca Palm,Hawa Ka Ped,Yes,Bright,Mist Weekly,Indoors,"Benzene, Toluene",High,Balcony Corner,AQI +12,Brazil
+Ficus elastica,Rubber Plant,Rubber Wala Paudha,Yes,Low to Medium,Mist Weekly,Indoors,N/A,Low,Small Pot (6-8 inches),AQI +15,Africa
+Chamaedorea elegans,Parlor Palm,Drawing Room Ka Paudha,Yes,Low,Moderate,Outdoors,"Benzene, Xylene, N/A",Very Low,Tabletop,AQI +11,Mexico
+Nephrolepis exaltata,Boston Fern,Hari Jhadi,Yes,Bright,Moderate,Outdoors,Ammonia,Low,Hanging Pot,AQI +21,Indonesia
+Aglaonema modestum,Chinese Evergreen,Chini Hara Patta,Yes,Bright,Moderate,Indoors,"Toluene, Ammonia",Low,Large Planter,AQI +27,India
+Anthurium andraeanum,Flamingo Flower,Laal Phool Paudha,Yes,Bright Indirect,High Humidity,Both,"Formaldehyde, N/A",Very Low,Small Pot (6-8 inches),AQI +23,Thailand
+Spathiphyllum wallisii,Peace Lily,Shaanti Ka Phool,Yes,Low,Moderate,Indoors,Ammonia,Very Low,Balcony Corner,AQI +6,India
+Sansevieria trifasciata,Snake Plant,Naagin Paudha,Yes,Low,Moderate,Outdoors,"Carbon Monoxide, Xylene, Toluene",Low,Small Pot (6-8 inches),AQI +26,Mexico
+Epipremnum aureum,Money Plant,Paise Wala Paudha,Yes,Medium,Low,Indoors,"Xylene, Carbon Monoxide",High,Small Pot (6-8 inches),AQI +18,Mexico
+Chlorophytum comosum,Spider Plant,Makdi Patta,Yes,Medium,Mist Weekly,Outdoors,"Carbon Monoxide, Benzene, Ammonia",Low,Large Planter,AQI +15,Thailand
+Zamioculcas zamiifolia var. 21,ZZ Plant 21,Jadui Patta 21,Yes,Bright,Moderate,Indoors,N/A,Low,Hanging Pot,AQI +30,Indonesia
+Maranta leuconeura var. 22,Prayer Plant 22,Prarthana Paudha 22,Yes,Bright Indirect,High Humidity,Both,Xylene,High,Hanging Pot,AQI +27,Brazil
+Calathea orbifolia var. 23,Calathea 23,Chamak Patta 23,Yes,Low,High,Both,Ammonia,Low,Balcony Corner,AQI +16,China
+Asplenium nidus var. 24,Bird's Nest Fern 24,Ghosla Fern 24,Yes,Low to Medium,Moderate,Outdoors,Carbon Monoxide,Medium,Hanging Pot,AQI +25,China
+Peperomia obtusifolia var. 25,Baby Rubber Plant 25,Chhoti Rubber 25,Yes,Bright Indirect,High Humidity,Both,Ammonia,Low,Small Pot (6-8 inches),AQI +8,Australia
+Fittonia albivenis var. 26,Nerve Plant 26,Naadi Paudha 26,Yes,Low,Moderate,Indoors,"Benzene, Xylene, N/A",Medium,Small Pot (6-8 inches),AQI +20,Mexico
+Stromanthe Triostar var. 27,Triostar 27,Rangin Patta 27,Yes,Medium,Moderate,Indoors,"N/A, Benzene, Formaldehyde",High,Large Planter,AQI +20,Indonesia
+Dracaena marginata var. 28,Dragon Tree 28,Naag Paudha 28,Yes,Bright Indirect,Moderate,Indoors,Formaldehyde,Very Low,Balcony Corner,AQI +11,Thailand
+Pilea peperomioides var. 29,Chinese Money Plant 29,Gol Patta 29,Yes,Bright Indirect,High,Outdoors,"Formaldehyde, Xylene",High,Hanging Pot,AQI +18,Indonesia
+Tillandsia spp. var. 30,Air Plant 30,Hawa Paudha 30,Yes,Low,High Humidity,Indoors,"Formaldehyde, Xylene, Toluene",Very Low,Hanging Pot,AQI +19,India
+Dypsis lutescens var. 31,Areca Palm 31,Hawa Ka Ped 31,Yes,Low to Medium,Mist Weekly,Outdoors,"Benzene, Toluene",Very Low,Tabletop,AQI +20,Indonesia
+Ficus elastica var. 32,Rubber Plant 32,Rubber Wala Paudha 32,Yes,Low,Low,Both,Carbon Monoxide,High,Tabletop,AQI +29,Brazil
+Chamaedorea elegans var. 33,Parlor Palm 33,Drawing Room Ka Paudha 33,Yes,Bright Indirect,Mist Weekly,Indoors,"Formaldehyde, Ammonia",Low,Balcony Corner,AQI +26,USA
+Nephrolepis exaltata var. 34,Boston Fern 34,Hari Jhadi 34,Yes,Bright Indirect,High Humidity,Outdoors,"Xylene, Ammonia, Carbon Monoxide",Medium,Small Pot (6-8 inches),AQI +30,Thailand
+Aglaonema modestum var. 35,Chinese Evergreen 35,Chini Hara Patta 35,Yes,Low,High Humidity,Indoors,"N/A, Ammonia, Carbon Monoxide",High,Small Pot (6-8 inches),AQI +14,Mexico
+Anthurium andraeanum var. 36,Flamingo Flower 36,Laal Phool Paudha 36,Yes,Medium,High,Indoors,"Benzene, Carbon Monoxide, Xylene",High,Hanging Pot,AQI +25,India
+Spathiphyllum wallisii var. 37,Peace Lily 37,Shaanti Ka Phool 37,Yes,Low to Medium,High,Indoors,Toluene,Very Low,Tabletop,AQI +6,China
+Sansevieria trifasciata var. 38,Snake Plant 38,Naagin Paudha 38,Yes,Medium,Mist Weekly,Indoors,"Ammonia, Carbon Monoxide, Formaldehyde",Low,Tabletop,AQI +7,Indonesia
+Epipremnum aureum var. 39,Money Plant 39,Paise Wala Paudha 39,Yes,Low to Medium,High Humidity,Both,"Ammonia, Carbon Monoxide, Benzene",High,Tabletop,AQI +9,Mexico
+Chlorophytum comosum var. 40,Spider Plant 40,Makdi Patta 40,Yes,Low to Medium,High,Indoors,N/A,Low,Large Planter,AQI +27,Indonesia
+Zamioculcas zamiifolia var. 41,ZZ Plant 41,Jadui Patta 41,Yes,Low to Medium,High,Indoors,Xylene,Low,Balcony Corner,AQI +20,China
+Maranta leuconeura var. 42,Prayer Plant 42,Prarthana Paudha 42,Yes,Bright Indirect,High,Both,"Ammonia, Formaldehyde, Carbon Monoxide",Very Low,Balcony Corner,AQI +27,Brazil
+Calathea orbifolia var. 43,Calathea 43,Chamak Patta 43,Yes,Bright Indirect,Low,Outdoors,"Toluene, Benzene, Ammonia",High,Large Planter,AQI +28,Brazil
+Asplenium nidus var. 44,Bird's Nest Fern 44,Ghosla Fern 44,Yes,Low to Medium,Moderate,Outdoors,"Benzene, Xylene, Ammonia",Medium,Large Planter,AQI +21,Peru
+Peperomia obtusifolia var. 45,Baby Rubber Plant 45,Chhoti Rubber 45,Yes,Bright,Low,Outdoors,"Benzene, Carbon Monoxide",High,Tabletop,AQI +27,Peru
+Fittonia albivenis var. 46,Nerve Plant 46,Naadi Paudha 46,Yes,Bright,Low,Both,"Carbon Monoxide, Ammonia, Benzene",Medium,Large Planter,AQI +20,Peru
+Stromanthe Triostar var. 47,Triostar 47,Rangin Patta 47,Yes,Medium,Moderate,Outdoors,Toluene,High,Hanging Pot,AQI +15,Thailand
+Dracaena marginata var. 48,Dragon Tree 48,Naag Paudha 48,Yes,Bright,Moderate,Outdoors,Formaldehyde,Very Low,Balcony Corner,AQI +17,Indonesia
+Pilea peperomioides var. 49,Chinese Money Plant 49,Gol Patta 49,Yes,Low,Mist Weekly,Indoors,"Formaldehyde, Carbon Monoxide, Benzene",High,Hanging Pot,AQI +30,China
+Tillandsia spp. var. 50,Air Plant 50,Hawa Paudha 50,Yes,Low,High Humidity,Indoors,Toluene,High,Balcony Corner,AQI +15,Africa
+Dypsis lutescens var. 51,Areca Palm 51,Hawa Ka Ped 51,Yes,Medium,Mist Weekly,Outdoors,"N/A, Xylene",Medium,Tabletop,AQI +7,Peru
+Ficus elastica var. 52,Rubber Plant 52,Rubber Wala Paudha 52,Yes,Bright,Low,Indoors,"Ammonia, Xylene",Medium,Balcony Corner,AQI +21,Mexico
+Chamaedorea elegans var. 53,Parlor Palm 53,Drawing Room Ka Paudha 53,Yes,Bright Indirect,Low,Outdoors,"Carbon Monoxide, Ammonia",High,Small Pot (6-8 inches),AQI +17,Brazil
+Nephrolepis exaltata var. 54,Boston Fern 54,Hari Jhadi 54,Yes,Low,Low,Both,Xylene,High,Small Pot (6-8 inches),AQI +21,USA
+Aglaonema modestum var. 55,Chinese Evergreen 55,Chini Hara Patta 55,Yes,Medium,Mist Weekly,Both,"Xylene, Toluene",Medium,Tabletop,AQI +6,Thailand
+Anthurium andraeanum var. 56,Flamingo Flower 56,Laal Phool Paudha 56,Yes,Low to Medium,High,Outdoors,"N/A, Ammonia, Carbon Monoxide",Medium,Balcony Corner,AQI +20,India
+Spathiphyllum wallisii var. 57,Peace Lily 57,Shaanti Ka Phool 57,Yes,Medium,Mist Weekly,Outdoors,Ammonia,Low,Small Pot (6-8 inches),AQI +11,USA
+Sansevieria trifasciata var. 58,Snake Plant 58,Naagin Paudha 58,Yes,Bright,Mist Weekly,Both,"Xylene, N/A, Carbon Monoxide",Medium,Hanging Pot,AQI +18,China
+Epipremnum aureum var. 59,Money Plant 59,Paise Wala Paudha 59,Yes,Bright,High Humidity,Both,"Benzene, N/A, Toluene",Medium,Balcony Corner,AQI +9,USA
+Chlorophytum comosum var. 60,Spider Plant 60,Makdi Patta 60,Yes,Bright,High,Both,Formaldehyde,Very Low,Hanging Pot,AQI +10,Peru
+Zamioculcas zamiifolia var. 61,ZZ Plant 61,Jadui Patta 61,Yes,Low,Moderate,Outdoors,"Ammonia, Carbon Monoxide",High,Tabletop,AQI +26,Thailand
+Maranta leuconeura var. 62,Prayer Plant 62,Prarthana Paudha 62,Yes,Bright,Mist Weekly,Both,Benzene,Low,Small Pot (6-8 inches),AQI +14,USA
+Calathea orbifolia var. 63,Calathea 63,Chamak Patta 63,Yes,Low to Medium,Moderate,Indoors,"N/A, Benzene, Carbon Monoxide",Very Low,Tabletop,AQI +28,Brazil
+Asplenium nidus var. 64,Bird's Nest Fern 64,Ghosla Fern 64,Yes,Low to Medium,High,Indoors,"Formaldehyde, Carbon Monoxide",High,Tabletop,AQI +30,India
+Peperomia obtusifolia var. 65,Baby Rubber Plant 65,Chhoti Rubber 65,Yes,Bright Indirect,Low,Indoors,Xylene,Very Low,Balcony Corner,AQI +14,Thailand
+Fittonia albivenis var. 66,Nerve Plant 66,Naadi Paudha 66,Yes,Bright,High,Outdoors,"Formaldehyde, Ammonia",Low,Tabletop,AQI +11,China
+Stromanthe Triostar var. 67,Triostar 67,Rangin Patta 67,Yes,Low,High,Outdoors,"Formaldehyde, Benzene",High,Tabletop,AQI +28,Africa
+Dracaena marginata var. 68,Dragon Tree 68,Naag Paudha 68,Yes,Low,Moderate,Outdoors,"Formaldehyde, Benzene",Medium,Tabletop,AQI +24,Peru
+Pilea peperomioides var. 69,Chinese Money Plant 69,Gol Patta 69,Yes,Low,High,Indoors,"N/A, Xylene, Toluene",Medium,Hanging Pot,AQI +20,Africa
+Tillandsia spp. var. 70,Air Plant 70,Hawa Paudha 70,Yes,Medium,High,Both,"Toluene, N/A, Carbon Monoxide",High,Small Pot (6-8 inches),AQI +28,Brazil
+Dypsis lutescens var. 71,Areca Palm 71,Hawa Ka Ped 71,Yes,Low,Low,Indoors,Benzene,Medium,Small Pot (6-8 inches),AQI +16,Brazil
+Ficus elastica var. 72,Rubber Plant 72,Rubber Wala Paudha 72,Yes,Medium,High,Both,Carbon Monoxide,Low,Tabletop,AQI +23,China
+Chamaedorea elegans var. 73,Parlor Palm 73,Drawing Room Ka Paudha 73,Yes,Low,High,Both,"N/A, Toluene, Xylene",High,Large Planter,AQI +6,USA
+Nephrolepis exaltata var. 74,Boston Fern 74,Hari Jhadi 74,Yes,Medium,Low,Indoors,"Toluene, Xylene",Low,Hanging Pot,AQI +22,Indonesia
+Aglaonema modestum var. 75,Chinese Evergreen 75,Chini Hara Patta 75,Yes,Low to Medium,High Humidity,Both,"Ammonia, N/A",Very Low,Large Planter,AQI +28,USA
+Anthurium andraeanum var. 76,Flamingo Flower 76,Laal Phool Paudha 76,Yes,Low to Medium,High Humidity,Indoors,"Formaldehyde, Xylene",High,Large Planter,AQI +19,India
+Spathiphyllum wallisii var. 77,Peace Lily 77,Shaanti Ka Phool 77,Yes,Low,Low,Indoors,Carbon Monoxide,Very Low,Hanging Pot,AQI +7,India
+Sansevieria trifasciata var. 78,Snake Plant 78,Naagin Paudha 78,Yes,Low to Medium,High Humidity,Both,"N/A, Toluene, Ammonia",Medium,Hanging Pot,AQI +16,Brazil
+Epipremnum aureum var. 79,Money Plant 79,Paise Wala Paudha 79,Yes,Bright Indirect,Moderate,Indoors,"Toluene, Xylene, Benzene",Low,Tabletop,AQI +5,India
+Chlorophytum comosum var. 80,Spider Plant 80,Makdi Patta 80,Yes,Medium,Mist Weekly,Both,Benzene,Low,Balcony Corner,AQI +19,Australia
+Zamioculcas zamiifolia var. 81,ZZ Plant 81,Jadui Patta 81,Yes,Bright,High Humidity,Both,"Toluene, Benzene, Ammonia",Low,Tabletop,AQI +6,Mexico
+Maranta leuconeura var. 82,Prayer Plant 82,Prarthana Paudha 82,Yes,Bright,Moderate,Indoors,"Xylene, Ammonia, Benzene",Very Low,Balcony Corner,AQI +30,Indonesia
+Calathea orbifolia var. 83,Calathea 83,Chamak Patta 83,Yes,Medium,High,Indoors,N/A,Very Low,Tabletop,AQI +23,China
+Asplenium nidus var. 84,Bird's Nest Fern 84,Ghosla Fern 84,Yes,Medium,High Humidity,Indoors,"Benzene, Toluene",High,Balcony Corner,AQI +5,Mexico
+Peperomia obtusifolia var. 85,Baby Rubber Plant 85,Chhoti Rubber 85,Yes,Low to Medium,Mist Weekly,Both,"Toluene, Formaldehyde",Very Low,Large Planter,AQI +28,India
+Fittonia albivenis var. 86,Nerve Plant 86,Naadi Paudha 86,Yes,Low to Medium,Moderate,Outdoors,"Carbon Monoxide, Xylene, Benzene",Very Low,Tabletop,AQI +28,Africa
+Stromanthe Triostar var. 87,Triostar 87,Rangin Patta 87,Yes,Low,High Humidity,Indoors,N/A,High,Balcony Corner,AQI +9,Peru
+Dracaena marginata var. 88,Dragon Tree 88,Naag Paudha 88,Yes,Bright Indirect,High,Outdoors,"Xylene, Toluene, Ammonia",Very Low,Tabletop,AQI +14,Peru
+Pilea peperomioides var. 89,Chinese Money Plant 89,Gol Patta 89,Yes,Low to Medium,Moderate,Outdoors,Carbon Monoxide,Medium,Balcony Corner,AQI +13,Mexico
+Tillandsia spp. var. 90,Air Plant 90,Hawa Paudha 90,Yes,Medium,Low,Outdoors,Carbon Monoxide,Medium,Tabletop,AQI +10,India
+Dypsis lutescens var. 91,Areca Palm 91,Hawa Ka Ped 91,Yes,Low,High,Both,Carbon Monoxide,High,Small Pot (6-8 inches),AQI +24,Africa
+Ficus elastica var. 92,Rubber Plant 92,Rubber Wala Paudha 92,Yes,Low to Medium,High Humidity,Both,Xylene,Low,Large Planter,AQI +17,Brazil
+Chamaedorea elegans var. 93,Parlor Palm 93,Drawing Room Ka Paudha 93,Yes,Low to Medium,High Humidity,Indoors,"Carbon Monoxide, Benzene",High,Tabletop,AQI +15,Thailand
+Nephrolepis exaltata var. 94,Boston Fern 94,Hari Jhadi 94,Yes,Bright,Mist Weekly,Indoors,"Carbon Monoxide, Ammonia, Benzene",Medium,Tabletop,AQI +28,India
+Aglaonema modestum var. 95,Chinese Evergreen 95,Chini Hara Patta 95,Yes,Bright,Mist Weekly,Both,"Ammonia, Xylene",High,Tabletop,AQI +30,China
+Anthurium andraeanum var. 96,Flamingo Flower 96,Laal Phool Paudha 96,Yes,Medium,Moderate,Outdoors,"Benzene, Formaldehyde, N/A",Low,Hanging Pot,AQI +24,Peru
+Spathiphyllum wallisii var. 97,Peace Lily 97,Shaanti Ka Phool 97,Yes,Low,Mist Weekly,Outdoors,"Carbon Monoxide, N/A, Benzene",Low,Balcony Corner,AQI +15,Mexico
+Sansevieria trifasciata var. 98,Snake Plant 98,Naagin Paudha 98,Yes,Low,High,Indoors,Formaldehyde,Very Low,Small Pot (6-8 inches),AQI +27,Peru
+Epipremnum aureum var. 99,Money Plant 99,Paise Wala Paudha 99,Yes,Low to Medium,High Humidity,Indoors,"N/A, Formaldehyde, Ammonia",Very Low,Balcony Corner,AQI +27,Peru
+Chlorophytum comosum var. 100,Spider Plant 100,Makdi Patta 100,Yes,Bright Indirect,High,Both,"Carbon Monoxide, Formaldehyde, Toluene",Medium,Tabletop,AQI +25,China
