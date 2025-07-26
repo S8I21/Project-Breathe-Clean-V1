@@ -8,6 +8,10 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 // Middleware
+app.get('/',(req,res)=>{
+  console.log("API is running!!!");
+});
+
 app.use(cors({
   origin: ['http://localhost:5173','https://fresh-clean-breathe.netlify.app/']
 }));
