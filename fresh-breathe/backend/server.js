@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 5000;
 
 // Middleware
 app.get('/',(req,res)=>{
-  console.log("API is running!!!");
+  res.send("API is running!!!");
 });
 
 app.use(cors({
@@ -27,7 +27,7 @@ mongoose.connect(process.env.MONGO_URI, {
 .then(() => {
   console.log('✅ MongoDB connected');
   app.listen(PORT, () => {
-    console.log(`🚀 Server running on http://localhost:${PORT}`);
+    console.log(`🚀 API is running on port ${PORT}`);
   });
 })
 .catch((err) => {
