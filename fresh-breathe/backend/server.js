@@ -13,7 +13,7 @@ app.get('/',(req,res)=>{
 });
 
 app.use(cors({
-  origin: ['http://localhost:5173','https://fresh-clean-breathe.netlify.app/']
+  origin: ['http://localhost:5173','https://project-breathe-clean-v1-1.onrender.com']
 }));
 app.use(express.json());
 app.use('/api/plants', plantRoutes);
