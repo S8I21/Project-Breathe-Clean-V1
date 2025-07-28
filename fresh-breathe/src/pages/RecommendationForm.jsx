@@ -1,35 +1,33 @@
-import React, {useState} from 'react';
-import axios from 'axios';
-import PlantCard from '../components/PlantCard'
+import React, { useState } from 'react';
+import PlantCard from '../components/PlantCard';
+import { getRecommendedPlants } from '../api/api'; // Use the API helper
 
-const RecommendationForm  = () => {
-    const[form,setForm] = useState([]);
-    const[loading,setLoading] = useState(false);
-    const[plants,setPlants] = useState([])
-    const handleChange = e => {
-        setForm({...form, [e.target.name]: e.target.value})
-    };
-    const handleSubmit = async e=> {
-        e.preventDefault();
-        setLoading(true);
-        try{
-            const res = await axios.get('http://localhost:5000/api/plants/recommend',{
-                params: {
-                    light: form.light,
-                    spaceRequired: form.spaceRequried,
-                    aqiImprovement: form.aqiImprovement
-                }
-            });
-            setPlants(res.data);
-            
-        }
-        catch(err){
-            console.log('Error fetching recommended plants: ',err);
-        }
-        finally{
-            setLoading(false);
-        }
+const RecommendationForm = () => {
+  const [form, setForm] = useState({
+    light: '',
+    spaceRequired: '',
+    aqiImprovement: ''
+  });
+
+  const [loading, setLoading] = useState(false);
+  const [plants, setPlants] = useState([]);
+
+  const handleChange = e => {
+    setForm({ ...form, [e.target.name]: e.target.value });
+  };
+
+  const handleSubmit = async e => {
+    e.preventDefault();
+    setLoading(true);
+    try {
+      const data = await getRecommendedPlants(form.light, form.spaceRequired, form.aqiImprovement);
+      setPlants(data);
+    } catch (err) {
+      console.error('Error fetching recommended plants:', err);
+    } finally {
+      setLoading(false);
     }
+  };
 
   return (
     <div style={{ padding: '30px', fontFamily: 'Arial, sans-serif' }}>
@@ -71,7 +69,6 @@ const RecommendationForm  = () => {
         </button>
       </form>
 
-      {/* Show recommendations */}
       {plants.length > 0 && (
         <div>
           <h3>🪴 Recommended Plants:</h3>
@@ -87,4 +84,3 @@ const RecommendationForm  = () => {
 };
 
 export default RecommendationForm;
-
