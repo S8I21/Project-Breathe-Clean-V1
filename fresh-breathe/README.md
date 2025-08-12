@@ -1,12 +1,21 @@
-# React + Vite
+## Breathe-Fresh
+The following project is an application that suggest which type of plants one must grow in order to improve the AQI index.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+1. User-friendly-Interface: Simple design with ease of user to search for the plants based on the criteria they want to.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Dataset: Current dataset consist of 100 different plants, as it is for the version 1.
 
-## Expanding the ESLint configuration
+3. Recommendation: Eye catching part of this algorithm is that it recommends you plants based on the criteria you mention i.e. size of house, aqi improvement, space required.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+4. The most important feature of all is that it consist of the hindi name too of the plant for the indian audience to understand and relate to the name carefully. 
+## Techstack
+
+- Language: Javascript
+- Framework: Express /React/ Tailwind/Node js
+- Database: MONGO DB
+
+## Dataset
+
+Dataset is created by myself after seeing through the web realted sources because of the data unavailability, the fields that I have kept are as follows: Botanical Name,common name,suggested_Nickname,Air Purifying,Light,Water,Indoors_Outdoors,toxins removed,maintainence,Space Required,AQIImprovement,OriginCountry.
