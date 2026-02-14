@@ -40,7 +40,7 @@ router.get('/recommend', async (req, res) => {
     });
 
     const sortedPlants = scoredPlants.sort((a, b) => b.score - a.score);
-    const topPlants = sortedPlants.slice(0, 4);
+    const topPlants = sortedPlants.slice(0, 12);
 
     console.log('✅ Recommended Plants:', topPlants);
 

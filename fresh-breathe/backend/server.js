@@ -5,7 +5,7 @@ const cors = require('cors');
 const plantRoutes = require('./routes/plants');
 
 const app = express();
-const PORT = process.PORT || 5000;
+const PORT = process.env.PORT || 5000;
 
 // Middleware
 app.get('/',(req,res)=>{
